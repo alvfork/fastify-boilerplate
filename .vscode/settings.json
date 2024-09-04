@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.rulers": [100],
+    "editor.formatOnSave": true,
+    "files.eol": "\n",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.words": ["fastify"]
+}
